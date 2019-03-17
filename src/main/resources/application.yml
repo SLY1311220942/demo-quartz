@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: demo-flowable
+  devtools:
+    restart:
+      enabled: false
+server:
+  port: 8080
